@@ -1,8 +1,8 @@
 {
     "keys": {
-        "maps": "<your maps key>",
-        "routing": "<your routing key>",
-        "search": "<your search key>",
+        "maps": "gQtiBgXku3iwQqgsHGV0aL6r45NGqnfp",
+        "routing": "gQtiBgXku3iwQqgsHGV0aL6r45NGqnfp",
+        "search": "gQtiBgXku3iwQqgsHGV0aL6r45NGqnfp",
         "trafficIncidents": "<your traffic incidents key>",
         "trafficFlow": "<your traffic flow key>",
         "extendedSearch": "<your extended search key>"
